@@ -1,3 +1,1 @@
-s v b d j v j d v d j v j d Key.ctrl_l \x01 Key.backspace Key.ctrl_l Key.backspace Key.backspace s u b h a s h Key.space j a n g i d Key.space h i i i i Key.left Key.left Key.left zkvmsvlmsmlvslslvsnno
-
-sfniwfnnwifiwfiifiwjfiwnfiwifiwefiwef[Key.ctrl_l][BACKSPACE]control all hete[BACKSPACE][BACKSPACE]e[BACKSPACE]re
+Hello Subhash 
