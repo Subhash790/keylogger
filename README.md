@@ -54,6 +54,4 @@ simple-keylogger/
 
 This tool is for educational purposes only. It is important to use this project responsibly and ensure that you have explicit consent before running it on any machine.
 
----
 
-Let me know if you'd like any adjustments before I create the final file for the repository.
