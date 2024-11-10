@@ -1,42 +1,40 @@
 # keylogger
 
 📋 Table of Contents
-Features
-Installation
-Usage
-How It Works
-Customization
-Legal Disclaimer
-🚀 Features
+1.Features
+2.Installation
+3.Usage
+4.How It Works
+5.Customization
+6.Legal Disclaimer
+
+1.🚀 Features
 Captures all alphanumeric and special keys (e.g., space, enter, backspace).
 Logs keystrokes in real-time to a file (log.txt).
 Lightweight and easy to set up.
+
 📦 Installation
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/yourusername/keylogger-python.git
+In terminal
+Copy code - git clone https://github.com/yourusername/keylogger-python.git
 cd keylogger-python
 Create a Virtual Environment (Optional but Recommended)
 
 bash
-Copy code
-python -m venv venv
+Copy code - python -m venv venv
 source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`
 Install Dependencies
 
 Make sure you have Python installed (version 3.6 or above).
 Install the required Python libraries:
 bash
-Copy code
-pip install pynput
+Copy code -pip install pynput
 🛠️ Usage
 Run the Keylogger
 
 bash
-Copy code
-python keylogger.py
+Copy code - python keylogger.py
 Viewing Logs
 
 The keystrokes will be saved in a file named log.txt located in the same directory.
@@ -50,6 +48,7 @@ The captured keystrokes are stored in a log.txt file for analysis.
 Sample Code Snippet
 python
 Copy code
+
 from pynput.keyboard import Key, Listener
 
 def write_file(char):
